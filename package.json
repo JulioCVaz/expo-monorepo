@@ -1,0 +1,12 @@
+{
+  "name": "expo-monorepo",
+  "version": "1.0.0",
+  "repository": "https://github.com/JulioCVaz/expo-monorepo.git",
+  "author": "Juliovaz <julio.oliveiravaz0@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
